@@ -1,6 +1,10 @@
-## This can be your internal website page / project page
+## Impact of COVID-19 on school graduation rates
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** The pandemic has impacted educational activities with several countries shifting to online or hybrid models of education. As a result, students in specific demographic groups (under-represented minorities, low-income students, etc.) are dropping out of high school.
+
+High school dropout rate is defined as the percentage of 16- to 24-year-olds who are not enrolled in school and have not earned a high school credential (either a diploma or an equivalency credential such as a GED certificate) and, as of 2018, this rate varies by race/ethnicity with minorities, including Native Americans and people of color, having higher dropout rates than white youth (Asian at 1.9 percent, White at 4.2 percent, mixed raced at 5.2 percent, Black at 6.4 percent, Hispanic at 8.0 percent, Pacific Islander at 8.1 percent, and American Indian/Alaska Native at 9.5 percent) with males dropping out at higher rates than females for most groups.
+
+
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
